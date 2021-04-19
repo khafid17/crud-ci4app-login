@@ -2,6 +2,11 @@
 
 ## What is CodeIgniter?
 
+<h4>email : ichigo@gmail.com</h4>
+<h4>password : katasandi123</h4>
+
+
+
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
 More information can be found at the [official site](http://codeigniter.com).
 
